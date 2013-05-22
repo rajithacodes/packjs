@@ -1,0 +1,3 @@
+var Bye = {
+    greeting: 'Goodbye'
+};
